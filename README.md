@@ -47,4 +47,11 @@
 
 ## ALU using parameter
 
-[Code](
+* In SystemVerilog, parameters are used to define constants that can be set during module instantiation.
+* They provide a convenient way to make modules more flexible and customizable.
+* Parameters are declared using the `parameter` keyword. They are constants and can be of any data type, including integers, bits, or enumerations.
+* Parameters improve code readability and maintainability by allowing you to define constants in one place and reuse them throughout your module.
+
+[Code](https://github.com/ani171/ALU/blob/affaa6be678f648b68d5226a93780825c921551d/parameter_width.sv)
+
+![image](https://github.com/ani171/ALU/assets/97838595/7673c1b3-2d8e-4eb5-b327-c096c677c4d1)
