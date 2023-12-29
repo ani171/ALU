@@ -37,3 +37,5 @@ module ALU (
   end
 
 endmodule
+
+// result_add, result_sub, result_and, result_or, result_xor: Internal registers to store intermediate results of addition, subtraction, AND, OR, and XOR operations, respectively.
