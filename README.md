@@ -44,3 +44,7 @@
 [Code](https://github.com/ani171/ALU/blob/3fb3d837b741b004d3600b9333b6eb7a84ef610a/parallel_alu.sv)
 
 ![image](https://github.com/ani171/ALU/assets/97838595/87af62a3-907f-454b-9a7d-f4ea070a51ad)
+
+## ALU using parameter
+
+[Code](
