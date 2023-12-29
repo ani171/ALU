@@ -28,4 +28,6 @@
 
 ![image](https://github.com/ani171/ALU/assets/97838595/8ac6945c-9e63-44fb-a104-904f921f7118)
 
+## ALU with parallelism
 
+[Code](https://github.com/ani171/ALU/blob/3fb3d837b741b004d3600b9333b6eb7a84ef610a/parallel_alu.sv)
