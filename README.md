@@ -4,7 +4,9 @@
 * Designing a simple Arithmetic Logic Unit (ALU) in SystemVerilog involves defining the operations it can perform and implementing the corresponding logic. Below is a basic example of a 4-bit ALU that supports addition, subtraction, AND, OR, and XOR operations.
 
 [Code](https://github.com/ani171/ALU/blob/8af278bb2c22c1cbb9fc323ab20bb2245ada7315/simple_ALU.sv)
-![image](https://github.com/ani171/ALU/assets/97838595/bd1f19c2-e79b-4491-b562-8962097d9f47)
+
+![image](https://github.com/ani171/ALU/assets/97838595/ee2410d5-e820-4ce0-9bcf-a0401eae3219)
+
 
 ## ALU with overflow detection
 
@@ -24,5 +26,6 @@
 * Overflow does not occur when both operands have the same sign.
 * If A[3] and B[3] are both 1 (negative) or both 0 (positive), overflow cannot occur.
 
-![image](https://github.com/ani171/ALU/assets/97838595/a8431c4b-d3fa-4844-9ba6-841272efee53)
+![image](https://github.com/ani171/ALU/assets/97838595/8ac6945c-9e63-44fb-a104-904f921f7118)
+
 
