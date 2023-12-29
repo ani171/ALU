@@ -3,7 +3,7 @@
 ## Simple ALU
 * Designing a simple Arithmetic Logic Unit (ALU) in SystemVerilog involves defining the operations it can perform and implementing the corresponding logic. Below is a basic example of a 4-bit ALU that supports addition, subtraction, AND, OR, and XOR operations.
 
-[Code](https://github.com/ani171/ALU/blob/8af278bb2c22c1cbb9fc323ab20bb2245ada7315/simple_ALU.sv)
+[Code](https://github.com/ani171/ALU/blob/0b8ac3330d8789bbc9474fdd2d4d74b7245a34b2/simple_alu.sv)
 
 ![image](https://github.com/ani171/ALU/assets/97838595/ee2410d5-e820-4ce0-9bcf-a0401eae3219)
 
