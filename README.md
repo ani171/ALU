@@ -31,16 +31,15 @@
 ## ALU with parallelism
 
 * Parallelism is a concept in computing where multiple tasks or operations are performed simultaneously, either concurrently or in parallel, to improve overall system performance and efficiency.
-* Need for parallelism
-
+#### Need for parallelism
  1. Increased Performance:
-  * Simultaneous Processing: Parallelism allows multiple tasks to be executed at the same time, leading to faster completion of operations.
-  * Task Parallelism: Dividing a complex task into subtasks that can be processed concurrently improves overall performance.
+   * Simultaneous Processing: Parallelism allows multiple tasks to be executed at the same time, leading to faster completion of operations.
+   * Task Parallelism: Dividing a complex task into subtasks that can be processed concurrently improves overall performance.
  2. Resource Utilization:
-  * Efficient Use of Resources: Parallelism helps in utilizing available resources effectively by distributing workloads across multiple processors or cores.
-  * Optimized Throughput: With parallel processing, a system can handle more tasks in a given time, optimizing throughput.
+   * Efficient Use of Resources: Parallelism helps in utilizing available resources effectively by distributing workloads across multiple processors or cores.
+   * Optimized Throughput: With parallel processing, a system can handle more tasks in a given time, optimizing throughput.
  3. Energy Efficiency:
-  * Distributed Workloads: Distributing tasks across multiple processors allows for better energy efficiency, as each processor can operate at lower power levels.
+   * Distributed Workloads: Distributing tasks across multiple processors allows for better energy efficiency, as each processor can operate at lower power levels.
 
 [Code](https://github.com/ani171/ALU/blob/3fb3d837b741b004d3600b9333b6eb7a84ef610a/parallel_alu.sv)
 
