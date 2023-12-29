@@ -8,7 +8,7 @@
 
 ## ALU with overflow detection
 
-[Code](https://github.com/ani171/ALU/blob/6bc3843512f82deb073967c118d12e55056ac82e/overflow_ALU.sv)
+[Code](https://github.com/ani171/ALU_implementations/blob/c9ae3c3b3c4e5c4b4d8c5dda62f43b21b23025b8/overflow_ALU.sv)
 
 `overflow=(A[3] & B[3] & ~Result[3]) | (~A[3] & ~B[3] & Result[3])`
 * Overflow occurs when both operands have the same sign, and the sign of the result is different.
